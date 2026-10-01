@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 650" role="img" aria-labelledby="title">
+  <title id="title">Foto placeholder abogada</title>
+  <rect width="520" height="650" fill="#F5F6F8"/>
+  <rect x="0" y="0" width="520" height="220" fill="#0B1F33"/>
+  <circle cx="260" cy="244" r="96" fill="#102A43"/>
+  <path d="M160 376h200c42 0 76 34 76 76v134H84V452c0-42 34-76 76-76Z" fill="#C9A24D"/>
+  <rect x="198" y="378" width="124" height="86" rx="14" fill="#FFFFFF"/>
+  <rect x="162" y="560" width="196" height="16" rx="8" fill="#0B1F33"/>
+</svg>

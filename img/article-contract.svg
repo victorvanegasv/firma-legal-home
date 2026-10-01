@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title">
+  <title id="title">Articulo juridico contractual</title>
+  <rect width="720" height="450" fill="#F5F6F8"/>
+  <rect x="104" y="56" width="360" height="338" rx="12" fill="#FFFFFF"/>
+  <rect x="144" y="108" width="190" height="20" rx="10" fill="#0B1F33"/>
+  <rect x="144" y="162" width="260" height="12" rx="6" fill="#4A4A4A" opacity=".3"/>
+  <rect x="144" y="196" width="230" height="12" rx="6" fill="#4A4A4A" opacity=".3"/>
+  <rect x="144" y="230" width="250" height="12" rx="6" fill="#4A4A4A" opacity=".3"/>
+  <rect x="144" y="304" width="110" height="42" rx="8" fill="#C9A24D"/>
+  <circle cx="506" cy="292" r="110" fill="#102A43"/>
+  <path d="M462 292l30 30 64-76" fill="none" stroke="#C9A24D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

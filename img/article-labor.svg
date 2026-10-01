@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title">
+  <title id="title">Articulo juridico laboral</title>
+  <rect width="720" height="450" fill="#0B1F33"/>
+  <rect x="72" y="72" width="576" height="306" rx="14" fill="#FFFFFF"/>
+  <rect x="112" y="118" width="210" height="22" rx="11" fill="#C9A24D"/>
+  <rect x="112" y="178" width="392" height="18" rx="9" fill="#102A43"/>
+  <rect x="112" y="220" width="476" height="14" rx="7" fill="#4A4A4A" opacity=".32"/>
+  <rect x="112" y="252" width="360" height="14" rx="7" fill="#4A4A4A" opacity=".24"/>
+  <rect x="112" y="310" width="132" height="38" rx="8" fill="#102A43"/>
+</svg>
